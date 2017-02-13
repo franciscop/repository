@@ -14,8 +14,8 @@
   "documentation": "documentation.md",
 
   "nav": {
-    "Hire me": "#hireme",
+    "Hire me": "#hi-reme",
     "Pricing": "#pricing",
-    "Documentation": "#documentation"
+    "Documentation": "/franciscop/repository/documentation"
   }
 }
