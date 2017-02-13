@@ -18,7 +18,7 @@ The website builder is free for everyone to use for one repository, but if you w
     <p>Auto deploy</p>
     <p>-</p>
     <p><strong>Free</strong></p>
-    <p><a class="button" href="/#hero">Use for free</a></p>
+    <p><a class="button" href="/#body">Use for free</a></p>
   </div>
   <div>
     <h2>Pro</h2>
