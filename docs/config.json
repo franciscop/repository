@@ -4,7 +4,14 @@
   "background": "#58a2df",
   "logo": "/docs/logo.png",
   "logosvg": "/docs/logo.svg",
+
+  "pages": {
+    "index": "README.md",
+    "documentation": "documentation.md"
+  },
+  "index": "README.md",
   "documentation": "documentation.md",
+
   "nav": {
     "#hireme": "Hire me",
     "#pricing": "Pricing",
