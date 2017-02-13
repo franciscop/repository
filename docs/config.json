@@ -1,0 +1,13 @@
+{
+  "title": "Repository",
+  "hero": "One click website for your Github repos: <form method=\"POST\" action=\"/\"><input name=\"repo\" placeholder=\"user/repo\"><button class=\"docs\" href=\"documentation\">Create website <span class=\"arrow right\">〉</span></button></form>",
+  "background": "#58a2df",
+  "logo": "/docs/logo.png",
+  "logosvg": "/docs/logo.svg",
+  "documentation": "documentation.md",
+  "nav": {
+    "#hireme": "Hire me",
+    "#pricing": "Pricing",
+    "#documentation": "Documentation"
+  }
+}
