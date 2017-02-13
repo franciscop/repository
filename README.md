@@ -47,7 +47,7 @@ I am available for design and full stack work related to this or totally unrelat
 
 ## License
 
-The code generated with https://repo.site/ and the demo project are licensed under the MIT License, so there's no problem including those in your repository. The code for the website https://repo.site/ itself is closed source.
+The code generated with https://repo.site/ and the demo project are licensed under the MIT License, so there's no problem including those in your repository.
 
 
 ## Credit
