@@ -43,3 +43,19 @@ The website builder is free for everyone to use for one repository, but if you w
 ## Hire me
 
 I am available for design and full stack work related to this or totally unrelated to this project. Have a look at my [my website](http://francisco.io/) or [my github](https://github.com/franciscop) to see more of my projects.
+
+
+## License
+
+The code generated with https://repo.site/ and the demo project are licensed under the MIT License, so there's no problem including those in your repository. The code for the website https://repo.site/ itself is closed source.
+
+
+## Credit
+
+This is based on quite a few projects, some of those mine:
+
+- [Paperdocs](http://francisco.io/paperdocs/): for the base style of this website.
+- [Picnic CSS](https://picnicss.com/): on which paperdocs is built.
+- [Umbrella JS](https://umbrellajs.com/): a small jQuery alternative.
+- [Github API](https://developer.github.com/v3/): it is an awesome API.
+- [Cloudflare CDN](https://cloudflare.com/): for the HTTPS and cache.
