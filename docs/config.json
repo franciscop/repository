@@ -14,8 +14,8 @@
   "documentation": "documentation.md",
 
   "nav": {
-    "#hireme": "Hire me",
-    "#pricing": "Pricing",
-    "#documentation": "Documentation"
+    "Hire me": "#hireme",
+    "Pricing": "#pricing",
+    "Documentation": "#documentation"
   }
 }
