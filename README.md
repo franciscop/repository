@@ -7,7 +7,6 @@ Designs beautiful websites for your repositories and allow you to personalize th
 You will get all of the files in your repository's `/docs` (standard place to publish websites) and a webhook attached that will recompile everything when your `README.md` or `documentation.md` change.
 
 
-
 ## Pricing
 
 The website builder is free for everyone to use for one repository, but if you want advanced features or several repositories we're asking for some investment:
