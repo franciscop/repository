@@ -17,7 +17,7 @@ The website builder is free for everyone to use for one repository, but if you w
     <h2>Personal</h2>
     <p><strong>1</strong> repository</p>
     <p>Auto deploy</p>
-    <p>-</p>
+    <p>No support</p>
     <p><strong>Free</strong></p>
     <p><a class="button" href="/#body">Use for free</a></p>
   </div>
@@ -27,7 +27,7 @@ The website builder is free for everyone to use for one repository, but if you w
     <p>Auto deploy & update</p>
     <p>Github issues</p>
     <p><strong>5$ / month</strong></p>
-    <p><a class="button">Buy with Paypal</a></p>
+    <p><a href="/buypro"><button>Buy with Paypal</button></a></p>
     <p>Cancel any time</p>
   </div>
   <div>
@@ -36,7 +36,7 @@ The website builder is free for everyone to use for one repository, but if you w
     <p>Auto deploy & update</p>
     <p>Email support</p>
     <p><strong>100$ / month</strong></p>
-    <p><a class="button">Buy with Paypal</a></p>
+    <p><a href="/buyenterprise"><button>Buy with Paypal</button></a></p>
     <p>Cancel any time</p>
   </div>
 </div>
