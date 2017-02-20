@@ -65,31 +65,32 @@ The website builder is free for everyone to use for one repository, but if you w
     <tr>
       <td>
         <h3>Personal</h3>
-        <strong>1</strong> repository
-        Auto deploy
-        No support
-        <strong>Free</strong>
-        <a class="button" href="/#body">Use for free</a>
+        <p><strong>1</strong> repository</p>
+        <p>Auto deploy</p>
+        <p>No support</p>
+        <p><strong>Free</strong></p>
+        <p><a class="button" href="/#body">Use for free</a></p>
+        <p></p>
       </td>
 
       <td>
         <h3>Pro</h3>
-        <strong>5</strong> repositories
-        Auto deploy & update
-        Github issues
-        <strong>5$ / month</strong>
-        <a href="/buypro"><button>Buy with Paypal</button></a>
-        Cancel any time
+        <p><strong>5</strong> repositories</p>
+        <p>Auto deploy & update</p>
+        <p>Github issues</p>
+        <p><strong>5$ / month</strong></p>
+        <p><a href="/buypro"><button>Buy with Paypal</button></a></p>
+        <p>Cancel any time</p>
       </td>
 
       <td>
         <h3>Enterprise</h3>
-        <strong>100</strong> repositories
-        Auto deploy & update
-        Email support
-        <strong>100$ / month</strong>
-        <a href="/buyenterprise"><button>Buy with Paypal</button></a>
-        Cancel any time
+        <p><strong>100</strong> repositories</p>
+        <p>Auto deploy & update</p>
+        <p>Email support</p>
+        <p><strong>100$ / month</strong></p>
+        <p><a href="/buyenterprise"><button>Buy with Paypal</button></a></p>
+        <p>Cancel any time</p>
       </td>
   </table>
 </div>
