@@ -15,9 +15,9 @@ The website builder is free for everyone to use for one repository, but if you w
 
 <table class="price">
   <tr>
-    <th>Personal</th>
-    <th>Pro</th>
-    <th>Enterprise</th>
+    <th><h3>Personal<h3></th>
+    <th><h3>Pro</h3></th>
+    <th><h3>Enterprise</h3></th>
   </tr>
 
   <tr>
