@@ -13,50 +13,51 @@ You will get all of the files in your repository's `/docs` (standard place to pu
 The website builder is free for everyone to use for one repository, but if you want advanced features or several repositories we're asking for some investment:
 
 
-<table class="price">
-  <tr>
-    <th><h3>Personal</h3></th>
-    <th><h3>Pro</h3></th>
-    <th><h3>Enterprise</h3></th>
-  </tr>
+<div class="price">
+  <table>
+    <tr>
+      <th><h3>Personal</h3></th>
+      <th><h3>Pro</h3></th>
+      <th><h3>Enterprise</h3></th>
+    </tr>
 
-  <tr>
-    <td><strong>1</strong> repository</td>
-    <td><strong>5</strong> repositories</td>
-    <td><strong>100</strong> repositories</td>
-  </tr>
+    <tr>
+      <td><strong>1</strong> repository</td>
+      <td><strong>5</strong> repositories</td>
+      <td><strong>100</strong> repositories</td>
+    </tr>
 
-  <tr>
-    <td>Auto deploy</td>
-    <td>Auto deploy & update</td>
-    <td>Auto deploy & update</td>
-  </tr>
+    <tr>
+      <td>Auto deploy</td>
+      <td>Auto deploy & update</td>
+      <td>Auto deploy & update</td>
+    </tr>
 
-  <tr>
-    <td>No support</td>
-    <td>Github issues</td>
-    <td>Email support</td>
-  </tr>
+    <tr>
+      <td>No support</td>
+      <td>Github issues</td>
+      <td>Email support</td>
+    </tr>
 
-  <tr>
-    <td><strong>Free</strong></td>
-    <td><strong>5$ / month</strong></td>
-    <td><strong>100$ / month</strong></td>
-  </tr>
+    <tr>
+      <td><strong>Free</strong></td>
+      <td><strong>5$ / month</strong></td>
+      <td><strong>100$ / month</strong></td>
+    </tr>
 
-  <tr>
-    <td><a class="button" href="/#body">Use for free</a></td>
-    <td><a href="/buypro"><button>Buy with Paypal</button></a></td>
-    <td><a href="/buyenterprise"><button>Buy with Paypal</button></a></td>
-  </tr>
+    <tr>
+      <td><a class="button" href="/#body">Use for free</a></td>
+      <td><a href="/buypro"><button>Buy with Paypal</button></a></td>
+      <td><a href="/buyenterprise"><button>Buy with Paypal</button></a></td>
+    </tr>
 
-  <tr>
-    <td></td>
-    <td>Cancel any time</td>
-    <td>Cancel any time</td>
-  </tr>
-</table>
-
+    <tr>
+      <td></td>
+      <td>Cancel any time</td>
+      <td>Cancel any time</td>
+    </tr>
+  </table>
+</div>
 
 
 ## Hire me
