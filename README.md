@@ -60,6 +60,43 @@ The website builder is free for everyone to use for one repository, but if you w
 </div>
 
 
+<div class="price">
+  <table>
+    <tr>
+      <td>
+        <h3>Personal</h3>
+        <strong>1</strong> repository
+        Auto deploy
+        No support
+        <strong>Free</strong>
+        <a class="button" href="/#body">Use for free</a>
+      </td>
+
+      <td>
+        <h3>Pro</h3>
+        <strong>5</strong> repositories
+        Auto deploy & update
+        Github issues
+        <strong>5$ / month</strong>
+        <a href="/buypro"><button>Buy with Paypal</button></a>
+        Cancel any time
+      </td>
+
+      <td>
+        <h3>Enterprise</h3>
+        <strong>100</strong> repositories
+        Auto deploy & update
+        Email support
+        <strong>100$ / month</strong>
+        <a href="/buyenterprise"><button>Buy with Paypal</button></a>
+        Cancel any time
+      </td>
+  </table>
+</div>
+
+
+
+
 ## Hire me
 
 I am available for design and full stack work related to this or totally unrelated to this project. Have a look at my [my website](http://francisco.io/) or [my github](https://github.com/franciscop) to see more of my projects.
