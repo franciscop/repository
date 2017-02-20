@@ -24,7 +24,7 @@ The website builder is free for everyone to use for one repository, but if you w
       <p>-</p>
     </td>
 
-    <td>
+    <td class="highlight">
       <h3>Pro</h3>
       <p><strong>5</strong> repositories</p>
       <p>Auto deploy & update</p>
