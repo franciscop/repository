@@ -13,7 +13,7 @@ You will get all of the files in your repository's `/docs` (standard place to pu
 The website builder is free for everyone to use for one repository, but if you want advanced features or several repositories we're asking for some investment:
 
 
-<table>
+<table class="price">
   <tr>
     <th>Personal</th>
     <th>Pro</th>
