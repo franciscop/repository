@@ -27,7 +27,7 @@ The website builder is free for everyone to use for one repository, but if you w
     <td class="highlight">
       <h3>Pro</h3>
       <p><strong>5</strong> repositories</p>
-      <p>Auto deploy & update</p>
+      <p>Deploy & update</p>
       <p>Github issues</p>
       <p><strong>5$ / month</strong></p>
       <p><a href="/buypro"><button>Buy with Paypal</button></a></p>
@@ -37,7 +37,7 @@ The website builder is free for everyone to use for one repository, but if you w
     <td>
       <h3>Enterprise</h3>
       <p><strong>100</strong> repositories</p>
-      <p>Auto deploy & update</p>
+      <p>Deploy & update</p>
       <p>Email support</p>
       <p><strong>100$ / month</strong></p>
       <p><a href="/buyenterprise"><button>Buy with Paypal</button></a></p>
